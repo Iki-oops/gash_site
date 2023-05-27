@@ -1,0 +1,15 @@
+#sidebar .widget {
+    position: relative;
+    margin-bottom: 70px;
+    width: auto;
+    float: none;
+    background-color: #fffacd;
+    .widget-title {
+        letter-spacing: .25px;
+        position: absolute;
+        left: 25px;
+        top: -20px;
+        z-index: 2;
+        font-weight: 800;
+    }
+}
